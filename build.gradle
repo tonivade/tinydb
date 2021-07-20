@@ -74,7 +74,7 @@ dependencies {
   compile 'net.sf.jopt-simple:jopt-simple:5.0.4'
   compile 'org.luaj:luaj-jse:3.0.1'
   compile 'org.caffinitas.ohc:ohc-core-j8:0.6.1'
-  runtime 'ch.qos.logback:logback-classic:1.2.3'
+  runtime 'ch.qos.logback:logback-classic:1.2.4'
   testCompile 'redis.clients:jedis:3.6.1'
   testCompile 'junit:junit:4.13.2'
   testCompile 'org.junit.jupiter:junit-jupiter-engine:5.7.2'
